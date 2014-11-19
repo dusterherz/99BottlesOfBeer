@@ -1,0 +1,6 @@
+[package]
+
+name = "99bottles"
+version = "0.0.1"
+authors = ["Dusterherz <dusterherz@gmail.com>"]
+description = "First Projet of Rust. Yeah o/"
