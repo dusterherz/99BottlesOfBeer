@@ -9,7 +9,7 @@ This program write the lyrics of the song "99 Bottles of Beer" in Rust. This is 
 
 Installation
 ------------
-You need Rust complie and Cargo to run this. You can find everything here -> http://www.rust-lang.org/install.html
+You need Rustc and Cargo to run this. You can find everything here -> http://www.rust-lang.org/install.html
 
 License
 -------
